@@ -1,48 +1,55 @@
 #EXTM3U
-#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",ag: (1) TVE-1
+#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",AG: (1) TVE-1
 https://rtvelivestream.akamaized.net/la1_dvr_4000.m3u8
 
-#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1024px-Logo_TVE-2.svg.png",ag: (2)TVE-2
+#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1024px-Logo_TVE-2.svg.png",AG: (2)TVE-2
 https://rtvelivestream.akamaized.net/la2_dvr_4000.m3u8
 
-#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://1.bp.blogspot.com/-9DhNdNaeSzc/X34PHVLEPaI/AAAAAAAAPY8/peQ73O7k3v8AkN-usayo2GX2pgU_d89dQCNcBGAsYHQ/w640-h500/logo%2Bantena%2B3%2Btv%2B6.jpg",ag: (3) ANTENA3
+#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://1.bp.blogspot.com/-9DhNdNaeSzc/X34PHVLEPaI/AAAAAAAAPY8/peQ73O7k3v8AkN-usayo2GX2pgU_d89dQCNcBGAsYHQ/w640-h500/logo%2Bantena%2B3%2Btv%2B6.jpg",AG: (3) ANTENA3
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484
 
-
-#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://img2.rtve.es/v/4384349?w=1600",ag: (5) 24H
+#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://img2.rtve.es/v/4384349?w=1600",AG: (5) 24H
 https://rtvelivestream.akamaized.net/24h_dvr_1850.m3u8
-#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",ag: (4) TELEDEPORTE
+#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",AG: (4) TELEDEPORTE
 https://rtvelivestream.akamaized.net/tdp_dvr_4000.m3u8
 
-#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://www.rtve.es/infantil/" ,ag: (6) CLAN
+#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://www.rtve.es/infantil/" ,AG: (6) CLAN
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/index_1500_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://apuntmedia.es/",ag: (7) APUNT
+#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://apuntmedia.es/",AG: (7) APUNT
 https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8
-#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://statics.ccma.cat/img/logos/tvc_colorBgNegre.svg" ,ag: (8) 3 CAT
+#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://statics.ccma.cat/img/logos/tvc_colorBgNegre.svg" ,AG: (8) 3 CAT
 https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist.m3u8
 
-#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://statics.ccma.cat/img/logos/324_color_fonsnegre.svg" ,ag: (9) TV3_24
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b1296000.m3u8
+#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://statics.ccma.cat/img/logos/324_color_fonsnegre.svg" ,AG: (9) TV3_24
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b1728000.m3u8
 
-#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://satcesc.com/wp-content/uploads/2018/03/Movistar-Formula1.jpg" ,ag: (_10) Movistar F1
+#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://satcesc.com/wp-content/uploads/2018/03/Movistar-Formula1.jpg" ,AG: (_10) Movistar F1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
 
-#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/GolTVLatamHD-2014.png/revision/latest?cb=20200105205809&path-prefix=es" ,ag: (_12) GolTV
+#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/GolTVLatamHD-2014.png/revision/latest?cb=20200105205809&path-prefix=es" ,AG: (_12) GolTV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
 
-#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://media.info/i/lf/300/1491352332/6595.png" ,ag: (_11) BEIN SPORTS HD
+#EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://media.info/i/lf/300/1491352332/6595.png" ,AG: (_11) BEIN SPORTS HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 
-#EXTINF:-1 group- title="CANALS AGUS",ag:(_13) AXN
+#EXTINF:-1 group- title="CANALS AGUS",AG:(_13) AXN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
 
-#EXTINF:-1 group- title="CANALS AGUS",ag:(_14) CINEMAX HD
+#EXTINF:-1 group- title="CANALS AGUS",AG:(_14) CINEMAX HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
 
-#EXTINF:-1 group- title="CANALS AGUS",ag:(_15) FX
+#EXTINF:-1 group- title="CANALS AGUS",AG:(_15) FX
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
 
+#EXTINF:-1 group- title="CANALS AGUS",AG:(_16) FX 
+http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/2825?checkedby:iptvcat.com
+
+#EXTINF:-1 group- title="CANALS AGUS",AG:(_17) HISTORIA
+http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/2692?checkedby:iptvcat.com
+
+#EXTINF:-1 group- title="CANALS AGUS",AG:(_18) MOVISTAR LIGA
+http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3645?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="|EU| ESPAÑA CANALES" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tve_canal_24horas.jpg",ES: 24 HORAS
 http://tv2sat.co:8000/50395471455193/22567523983551/30197
