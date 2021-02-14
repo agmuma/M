@@ -42,13 +42,13 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 group- title="CANALS AGUS",AG:(_15) FX
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
 
-#EXTINF:-1 group- title="CANALS AGUS",AG:(_16) FX 
+#EXTINF:-1 group- title="CANALS AGUS",AG:(_16) HISTORIA
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/2825?checkedby:iptvcat.com
 
-#EXTINF:-1 group- title="CANALS AGUS",AG:(_17) HISTORIA
+#EXTINF:-1 group- title="CANALS AGUS",AG:(_17) MOVISTAR LIGA
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/2692?checkedby:iptvcat.com
 
-#EXTINF:-1 group- title="CANALS AGUS",AG:(_18) MOVISTAR LIGA
+#EXTINF:-1 group- title="CANALS AGUS",AG:(_18) FX 
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3645?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="|EU| ESPAÑA CANALES" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tve_canal_24horas.jpg",ES: 24 HORAS
