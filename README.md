@@ -60,21 +60,19 @@ http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3645?checkedby:iptvc
 #EXTINF:-1 group- title="CANALS AGUS",AG:(_20) #0
 http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/1207?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",EUROSPORT 1
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/31423?checkedby:iptvcat.com
+#EXTINF:0 group- title="CANALS AGUS",AG:(_21) EUROSPORT http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/31423?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",EUROSPORT 2
+#EXTINF:0 group- title="CANALS AGUS",AG:(_22) EUROSPORT 2
 http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/31426?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",EUROSPORT1 FHD
+#EXTINF:0 group- title="CANALS AGUS",AG:(_23) EUROSPORT1 FHD
 http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/31425?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",M. DEPORTES FHD
+#EXTINF:0 group- title="CANALS AGUS",AG:(_24) M. DEPORTES FHD
 http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/31363?checkedby:iptvcat.com
-
 
 #EXTINF:-1 group-title="|EU| ESPAÑA CANALES" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tve_canal_24horas.jpg",ES: 24 HORAS
 http://tv2sat.co:8000/50395471455193/22567523983551/30197
