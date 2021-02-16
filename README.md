@@ -8,6 +8,7 @@ https://rtvelivestream.akamaized.net/la2_dvr_4000.m3u8
 #EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://1.bp.blogspot.com/-9DhNdNaeSzc/X34PHVLEPaI/AAAAAAAAPY8/peQ73O7k3v8AkN-usayo2GX2pgU_d89dQCNcBGAsYHQ/w640-h500/logo%2Bantena%2B3%2Btv%2B6.jpg",AG: (3) ANTENA3
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484
 
+
 #EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://img2.rtve.es/v/4384349?w=1600",AG: (5) 24H
 https://rtvelivestream.akamaized.net/24h_dvr_1850.m3u8
 #EXTINF:-1 group- title="CANALS AGUS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",AG: (4) TELEDEPORTE
@@ -42,14 +43,23 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 group- title="CANALS AGUS",AG:(_15) FX
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
 
-#EXTINF:-1 group- title="CANALS AGUS",AG:(_16) HISTORIA
+
+#EXTINF:-1 group- title="CANALS AGUS",AG:(_16) HISTORIA  
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/2825?checkedby:iptvcat.com
 
-#EXTINF:-1 group- title="CANALS AGUS",AG:(_17) MOVISTAR LIGA
+#EXTINF:-1 group- title="CANALS AGUS",AG:(_17) HISTORIA
+http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/1208?checkedby:iptvcat.com
+
+#EXTINF:-1 group- title="CANALS AGUS",AG:(_18) MOVISTAR LIGA
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/2692?checkedby:iptvcat.com
 
-#EXTINF:-1 group- title="CANALS AGUS",AG:(_18) FX 
+#EXTINF:-1 group- title="CANALS AGUS",AG:(_19) FX
 http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/3645?checkedby:iptvcat.com
+
+
+#EXTINF:-1 group- title="CANALS AGUS",AG:(_20) #0
+http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/1207?checkedby:iptvcat.com
+
 
 #EXTINF:-1 group-title="|EU| ESPAÑA CANALES" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tve_canal_24horas.jpg",ES: 24 HORAS
 http://tv2sat.co:8000/50395471455193/22567523983551/30197
